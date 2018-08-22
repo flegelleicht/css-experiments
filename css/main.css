@@ -84,6 +84,7 @@ a {
 
 .picture-image {
   border-radius: 290183px;
+  border: 10px solid white;
   position: absolute;
 }
 
